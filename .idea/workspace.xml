@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c34e2e9-9f9e-4c30-9aee-630bd841d58c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1YcJSxil9XTcS0s1kLv1UJjAwDc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../blog" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\blog_1\factories" />
+      <recent name="C:\xampp\htdocs\blog_1\classes" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\blog_1\src" />
+      <recent name="C:\xampp\htdocs\blog_1\classes" />
+      <recent name="C:\xampp\htdocs\blog_1\interfaces" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c34e2e9-9f9e-4c30-9aee-630bd841d58c" name="Default Changelist" comment="" />
+      <created>1583235952485</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583235952485</updated>
+      <workItem from="1583235953642" duration="58963000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-2054" y="-634" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1583312255649">
+      <screen x="-2560" y="-634" width="1707" height="920" />
+    </state>
+    <state x="-2054" y="-634" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824/-2560.-634.1707.920@-2560.-634.1707.920" timestamp="1583312255649" />
+    <state x="-1976" y="-419" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1583327824236">
+      <screen x="-2560" y="-634" width="1707" height="920" />
+    </state>
+    <state x="-1976" y="-419" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1536.824/-2560.-634.1707.920@-2560.-634.1707.920" timestamp="1583327824236" />
+    <state x="-1964" y="-558" key="#com.jetbrains.php.refactoring.extractMethod.PhpExtractMethodDialog#method0" timestamp="1583312511236">
+      <screen x="-2560" y="-634" width="1707" height="920" />
+    </state>
+    <state x="-1964" y="-558" key="#com.jetbrains.php.refactoring.extractMethod.PhpExtractMethodDialog#method0/0.0.1536.824/-2560.-634.1707.920@-2560.-634.1707.920" timestamp="1583312511236" />
+    <state x="-1964" y="-624" key="#com.jetbrains.php.refactoring.extractMethod.PhpExtractMethodDialog#method1" timestamp="1583311852129">
+      <screen x="-2560" y="-634" width="1707" height="920" />
+    </state>
+    <state x="-1964" y="-624" key="#com.jetbrains.php.refactoring.extractMethod.PhpExtractMethodDialog#method1/0.0.1536.824/-2560.-634.1707.920@-2560.-634.1707.920" timestamp="1583311852129" />
+    <state x="-1966" y="-478" key="FileChooserDialogImpl" timestamp="1583258914591">
+      <screen x="-2560" y="-634" width="1707" height="920" />
+    </state>
+    <state x="-1966" y="-478" key="FileChooserDialogImpl/0.0.1536.824/-2560.-634.1707.920@-2560.-634.1707.920" timestamp="1583258914591" />
+    <state x="-1945" y="-419" key="NewPhpClassDialog" timestamp="1583271087020">
+      <screen x="-2560" y="-634" width="1707" height="920" />
+    </state>
+    <state x="-1945" y="-419" key="NewPhpClassDialog/0.0.1536.824/-2560.-634.1707.920@-2560.-634.1707.920" timestamp="1583271087020" />
+    <state x="-1911" y="-310" key="NewPhpFileDialog" timestamp="1583336401585">
+      <screen x="-2560" y="-634" width="1707" height="920" />
+    </state>
+    <state x="-1911" y="-310" key="NewPhpFileDialog/0.0.1536.824/-2560.-634.1707.920@-2560.-634.1707.920" timestamp="1583336401585" />
+    <state x="-2083" y="-607" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1583252750094">
+      <screen x="-2560" y="-634" width="1707" height="920" />
+    </state>
+    <state x="-2083" y="-607" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824/-2560.-634.1707.920@-2560.-634.1707.920" timestamp="1583252750094" />
+    <state x="-2013" y="-576" width="612" height="804" key="find.popup" timestamp="1583341118694">
+      <screen x="-2560" y="-634" width="1707" height="920" />
+    </state>
+    <state x="-2013" y="-576" width="612" height="804" key="find.popup/0.0.1536.824/-2560.-634.1707.920@-2560.-634.1707.920" timestamp="1583341118694" />
+    <state x="-2044" y="-439" width="672" height="678" key="search.everywhere.popup" timestamp="1583268135553">
+      <screen x="-2560" y="-634" width="1707" height="920" />
+    </state>
+    <state x="-2044" y="-439" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/-2560.-634.1707.920@-2560.-634.1707.920" timestamp="1583268135553" />
+  </component>
+</project>
